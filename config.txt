@@ -1,0 +1,12 @@
+# can be either absolute or relative
+videoPath=./sample_movie.h264
+expectedFPS=60
+
+isFullScreen=0
+monitorID=0
+
+# only applicable if not using full screen
+windowed_W=1280
+windowed_H=720
+
+shadersPath=./shaders
